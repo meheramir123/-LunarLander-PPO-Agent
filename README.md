@@ -39,4 +39,5 @@ Make sure you have Python installed. Then, open your terminal and run:
 
 # Credits
 Gymnasium — For providing the LunarLander environment.
+
 PPO reinforcement learning implementation — https://medium.com/@danushidk507/ppo-algorithm-3b33195de14a
