@@ -30,7 +30,9 @@ To encourage better landings, we’ve added a custom reward system that gives bo
 # Getting Started
 # Install Dependencies
 Make sure you have Python installed. Then, open your terminal and run:
-     -pip install gymnasium stable-baselines3
+     -pip install gymnasium stable-baselines3 numpy matplotlib
+     -pip install pygame
+     -pip install tensorboard
 
 # Features
      -Custom reward system — Encourages smooth and precise landings near the center.
